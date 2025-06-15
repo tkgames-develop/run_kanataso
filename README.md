@@ -17,7 +17,7 @@ https://tkgames.jp/run_kanataso.html
 データ流用による転載
 
 
-# Holo watermelon connect
+# Run! Kanataso
 
 ## Overview
 It is created and published as a derivative work browser game of Hololive.
